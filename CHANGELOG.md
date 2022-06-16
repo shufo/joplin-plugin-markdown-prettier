@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.1](https://github.com/shufo/joplin-plugin-markdown-prettier/compare/v0.1.0...v0.1.1) (2022-06-16)
+
+
+### Miscellaneous
+
+* 🤖 update manifest.json ([16bd544](https://github.com/shufo/joplin-plugin-markdown-prettier/commit/16bd5449b1e120d93a84a2d05bd9da5f27f61ea1))
+* 🤖 use yarn ([2bc48df](https://github.com/shufo/joplin-plugin-markdown-prettier/commit/2bc48df3ff307a6300d521f0b245d5ea14221276))
+
 ## 0.1.0 (2022-06-16)
 
 
