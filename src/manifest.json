@@ -6,9 +6,8 @@
   "name": "Markdown Prettier",
   "description": "Format your markdown by prettier",
   "author": "shufo",
-  "homepage_url": "",
-  "repository_url": "",
-  "keywords": [],
-  "categories": []
+  "homepage_url": "https://github.com/shufo/joplin-plugin-markdown-prettier",
+  "repository_url": "https://github.com/shufo/joplin-plugin-markdown-prettier",
+  "keywords": ["prettier"],
+  "categories": ["formatter"]
 }
-
