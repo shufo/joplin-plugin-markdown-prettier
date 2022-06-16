@@ -6,6 +6,9 @@ Format your joplin markdown note by prettier.
 
 Search and install plugin `Markdown Prettier` from joplin plugin list.
 
+<img src="https://user-images.githubusercontent.com/1641039/173973648-aef0ba9f-1bbf-4308-ada9-fd9d6cae7fb7.png" width="500">
+
+
 ## Usage
 
 You can format notes from Toolbar and Context Menu.
