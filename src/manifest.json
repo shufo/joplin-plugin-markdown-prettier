@@ -8,6 +8,6 @@
   "author": "shufo",
   "homepage_url": "https://github.com/shufo/joplin-plugin-markdown-prettier",
   "repository_url": "https://github.com/shufo/joplin-plugin-markdown-prettier",
-  "keywords": ["prettier"],
-  "categories": ["formatter"]
+  "keywords": ["prettier", "formatter"],
+  "categories": ["productivity"]
 }
