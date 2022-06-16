@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2](https://github.com/shufo/joplin-plugin-markdown-prettier/compare/v0.1.1...v0.1.2) (2022-06-16)
+
+
+### Miscellaneous
+
+* 🤖 unnecessary ci step ([c7a8bc2](https://github.com/shufo/joplin-plugin-markdown-prettier/commit/c7a8bc2ae624238f6ca4f6c626993c072b2d1506))
+
 ## [0.1.1](https://github.com/shufo/joplin-plugin-markdown-prettier/compare/v0.1.0...v0.1.1) (2022-06-16)
 
 
