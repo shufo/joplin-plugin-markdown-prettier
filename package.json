@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "scripts": {
     "dist": "webpack --joplin-plugin-config buildMain && webpack --joplin-plugin-config buildExtraScripts && webpack --joplin-plugin-config createArchive",
-    "prepare": "npm run dist",
-    "update": "npm install -g generator-joplin && yo joplin --update"
+    "prepare": "yarn run dist",
+    "update": "yarn install -g generator-joplin && yo joplin --update"
   },
   "license": "MIT",
   "keywords": [
