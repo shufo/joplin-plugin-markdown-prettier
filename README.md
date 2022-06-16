@@ -14,11 +14,11 @@ You can format notes from Toolbar and Context Menu.
 
 ### Shortcut
 
-You can also configure Shortcut from `Tools > Options > Keyboard Shortcuts > Format Note`. 
+Windows: `Alt + Shift + F`
+
+You can also configure Shortcut from `Tools > Options > Keyboard Shortcuts > Format Note`.
 
 ![2022-06-16_09-25](https://user-images.githubusercontent.com/1641039/173964894-6c1e2f87-3878-4d68-b8db-e5a6b76081e8.png)
-
-Recommended shortcut: `Alt + Shift + F`.
 
 ## Contributing
 
