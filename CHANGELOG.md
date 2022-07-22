@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.3](https://github.com/shufo/joplin-plugin-markdown-prettier/compare/v0.1.2...v0.1.3) (2022-07-22)
+
+
+### Miscellaneous
+
+* **deps:** bump prettier from 2.6.2 to 2.7.1 ([4f3dab2](https://github.com/shufo/joplin-plugin-markdown-prettier/commit/4f3dab2a0928388c231e457c4b707d3529b3b7e4))
+* **deps:** bump terser from 4.8.0 to 4.8.1 ([026b682](https://github.com/shufo/joplin-plugin-markdown-prettier/commit/026b682bd4a5e9a56b8b3bac5509b9db39af4bf4))
+
 ## [0.1.2](https://github.com/shufo/joplin-plugin-markdown-prettier/compare/v0.1.1...v0.1.2) (2022-06-16)
 
 
